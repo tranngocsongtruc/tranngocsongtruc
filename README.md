@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on WeVote
-- 🌱 I’m currently learning Computer Architecture
-- 🤔 I’m looking for help with finding internships and (potentially) answering questions on tax return
-- 📫 How to reach me: via LinkedIn: tranngocsongtruc or my office Orange Coast College - Future Pirate Center
+- 🌱 I’m currently attending UC Berkeley
+- 🤔 I’m looking for help with finding internships and making friends
+- 📫 How to reach me: via LinkedIn: tranngocsongtruc
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I like warm water and milk
 
