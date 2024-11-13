@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on WeVote
+- 🔭 I’m currently just doing my coursework
 - 🌱 I’m currently attending UC Berkeley
-- 🤔 I’m looking for help with finding generative AI internships and making friends
+- 🤔 I’m looking for SWE internships and making friends
 - 📫 How to reach me: via LinkedIn: tranngocsongtruc
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I like warm water and milk
