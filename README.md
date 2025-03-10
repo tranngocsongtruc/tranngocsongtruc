@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently just doing my coursework
+- 🔭 I’m currently studying operating systems, computer security, and backend web architecture
 - 🌱 I’m currently attending UC Berkeley
 - 🤔 I’m looking for SWE internships and making friends
 - 📫 How to reach me: via LinkedIn: tranngocsongtruc
