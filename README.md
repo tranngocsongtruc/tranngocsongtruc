@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying operating systems, computer security, and backend web architecture
+- 🔭 I’m currently working on a personal project
 - 🌱 I’m currently attending UC Berkeley
-- 🤔 I’m looking for SWE internships and making friends
+- 🤔 I’m looking for an SWE entry-level postion
 - 📫 How to reach me: via LinkedIn: tranngocsongtruc
-- 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I like warm water and milk
 
 <!--
 **tranngocsongtruc/tranngocsongtruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
