@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently interning at Molecular Foundry (Frontend Engineering)
+- 🔭 I’m currently interning at Molecular Foundry (Full-Stack and Data SWE)
 - 🌱 I’m currently studying Computer Science (B.A.) at UC Berkeley
 - 🤔 I’m looking for an SWE entry-level postion
 - 📫 How to reach me: via LinkedIn: tranngocsongtruc
