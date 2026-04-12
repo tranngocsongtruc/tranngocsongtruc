@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently interning at Molecular Foundry (Full-Stack and Data SWE) and contributing to a research at PATH.
-- 🌱 I’m currently studying Computer Science (B.A.) at UC Berkeley
-- 🤔 I’m looking for an SWE entry-level postion
+- 🤔 I’m building projects while actively looking for an SWE position.
+- 🔭 In Fall 2025, I interned at Molecular Foundry (Full-Stack and Data SWE) and contributed to a research at PATH (currently hiatus for visa reasons).
+- 🌱 I majored in Computer Science (B.A.) at UC Berkeley and graduated in December 2025.
 - 📫 How to reach me: via LinkedIn: tranngocsongtruc
 
 <!--
