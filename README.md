@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤔 I’m building personal projects while actively looking for an SWE position.
+- 🤔 I’m building personal projects (check out "ema" and "paac") while actively looking for an SWE position.
 - 🔭 In Fall 2025, I interned at Molecular Foundry (Full-Stack and Data SWE) and contributed to a research at PATH (hopefully coming back soon).
 - 🌱 I majored in Computer Science (B.A.) at UC Berkeley and graduated in December 2025.
 - 📫 How to reach me: via LinkedIn: tranngocsongtruc
