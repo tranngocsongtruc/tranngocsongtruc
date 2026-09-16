@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🤔 I’m building personal projects (check out "ema" and "paac") while actively looking for an SWE position.
+- 🤔 I just finished my SWE internship (I was pushing code with my company account so you don't really see me active here). Actively building some personal project while finding a new job!
 - 🔭 In Fall 2025, I interned at Molecular Foundry (Full-Stack and Data SWE) and contributed to a research at PATH (hopefully coming back soon).
 - 🌱 I majored in Computer Science (B.A.) at UC Berkeley and graduated in December 2025.
-- 📫 How to reach me: via LinkedIn: tranngocsongtruc
+- 📫 How to reach me: via LinkedIn: trucs
 
 <!--
 **tranngocsongtruc/tranngocsongtruc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
